@@ -51,6 +51,7 @@ function Freebook() {
       <h1 className="font-bold text-xl pb-2">Free Offered</h1>
      <p>
      The more that you read, the more things you will know. The more that you learn, 
+     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit eum ad, harum consequuntur qui minima.
      the more places you'll go.
      </p>
       </div>
