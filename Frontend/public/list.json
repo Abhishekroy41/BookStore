@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"Story Book",
-        "title":"Lorem, ipsum dolar sit consectetur adipisicing elit.",
+        "title":"Every story takes you on a journey. Check out our featured storybook and start your adventure!.",
         "price":0,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727534055~exp=1727537655~hmac=edd66e1e2f187b6b629ac544e41360fffeb94fb02f39261400c2046c8512d1dd&w=740"
@@ -13,9 +13,9 @@
     {
         "id":2,
         "name":"Comedy Book",
-        "title":"Lorem, ipsum dolar sit consectetur adipisicing elit.",
+        "title":"Every story takes you on a journey. Check out our featured storybook and start your adventure!.",
         "price":20,
-        "category":"Entairment",
+        "category":"Mystery",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727534055~exp=1727537655~hmac=edd66e1e2f187b6b629ac544e41360fffeb94fb02f39261400c2046c8512d1dd&w=740"
 
     },
@@ -23,7 +23,7 @@
     {
         "id":3,
         "name":"Story Book",
-        "title":"Lorem, ipsum dolar sit consectetur adipisicing elit.",
+        "title":"Every story takes you on a journey. Check out our featured storybook and start your adventure!.",
         "price":0,
         "category":"Free",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727534055~exp=1727537655~hmac=edd66e1e2f187b6b629ac544e41360fffeb94fb02f39261400c2046c8512d1dd&w=740"
@@ -33,7 +33,7 @@
     {
         "id":4,
         "name":"Sports Book",
-        "title":"Lorem, ipsum dolar sit consectetur adipisicing elit.",
+        "title":"Every story takes you on a journey. Check out our featured storybook and start your adventure!.",
         "price":50,
         "category":"Sports",
         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727534055~exp=1727537655~hmac=edd66e1e2f187b6b629ac544e41360fffeb94fb02f39261400c2046c8512d1dd&w=740"
